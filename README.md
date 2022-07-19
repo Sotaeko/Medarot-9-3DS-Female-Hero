@@ -32,8 +32,8 @@ Option 2 -> Using Cia
 3. Rebuild and install
 
 ### Modders:
-Omnija -  Translator, Graphic Design, ROM Hacking  
-Sotaeko - Translator, Editor, Community Management
+Omnija -  Translator, Artist, ROM Hacking  
+Sotaeko - Translator, Artist, Editor, Community Management
   
 ### Screenshots
 ![Intro](/docs/fheromdl.png)
